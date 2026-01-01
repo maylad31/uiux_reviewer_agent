@@ -13,7 +13,7 @@ Main idea was to test haystack for creating Agents. Code can be improved/better 
 * Install chromium for playwright `playwright install chromium`
 * Put openai key in `.env`(check .env_dummy)
 * Run the app `python app.py`
-* Start the repo (if you like it, in case I update it further) :)
+* Star the repo (if you like it, in case I update it further) :)
 
 # Demo
 
