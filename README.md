@@ -14,6 +14,7 @@ Main idea was to test haystack for creating Agents. Code can be improved/better 
 * Put openai key in `.env`(check .env_dummy)
 * Run the app `python app.py`
 * Star the repo (if you like it, in case I update it further) :)
+* If you get any errors related to playwright, confirm the version in requirements.txt and playwright --version are the same.
 
 # Demo
 
