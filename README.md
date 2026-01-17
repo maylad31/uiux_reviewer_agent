@@ -6,6 +6,10 @@ Main idea was to test haystack for creating Agents. Code can be improved/better 
 * Layout(layout quality, CTAs and ease of navigation)
 * Visuals
 
+Connect with me on linkedin if you have an intersting project.
+
+https://www.linkedin.com/in/mayankladdha31/
+
 
 # How to run
 * Create and activate a virtual environment
@@ -20,7 +24,5 @@ Main idea was to test haystack for creating Agents. Code can be improved/better 
 
 ![Demo](demo.gif)
 
-Connect with me on linkedin if you have an intersting project.
 
-https://www.linkedin.com/in/mayankladdha31/
 
