@@ -20,3 +20,7 @@ Main idea was to test haystack for creating Agents. Code can be improved/better 
 
 ![Demo](demo.gif)
 
+Connect with me on linkedin if you have an intersting project.
+
+https://www.linkedin.com/in/mayankladdha31/
+
